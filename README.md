@@ -1,5 +1,5 @@
 # Simon Says Game 
-It is bascially a memory game which improves your concentration, and diverts you mind towards the game.It releases stress, also improves your memory power.
+It is basically a memory game which improves your concentration, and diverts you mind towards the game.It releases stress, also improves your memory power.
 
 # How to play
 step 1: To start the game,Press any key.
