@@ -11,5 +11,5 @@ step 5: If you want to restart the game again, then press any key to get started
 
 
 # project description
-this is my first project.
-this file is made with basic html css and javascript. 
+This is my first project.
+This file is made with basic html css and javascript. 
