@@ -13,4 +13,4 @@ step 5: If you want to restart the game again, then press any key to get started
 # project description
 This is my first project.
 This file is made with basic html css and javascript.
-~From Nishitha.
+From Nishitha.
